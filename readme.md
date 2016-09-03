@@ -22,8 +22,8 @@ npm install uic-codes
 const uic = require('uic-codes')
 
 // Germany
-uic.DE // 80
-uic[80] // 'DE'
+uic.D // 80
+uic[80] // 'D'
 ```
 
 
