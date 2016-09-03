@@ -10,5 +10,9 @@
 	"repository":   "derhuerst/german-states-bbox",
 	"issues":       "https://github.com/derhuerst/german-states-bbox/issues",
 	"license":      "ISC",
-	"engines":      {"node": ">=4"}
+	"engines":      {"node": ">=4"},
+	"scripts": {
+		"test":       "node test.js",
+		"prepublish": "npm test"
+	}
 }
