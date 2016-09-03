@@ -1,14 +1,14 @@
 {
 	"name":         "uic-codes",
 	"description":  "UIC country codes.",
-	"version":      "0.1.0",
+	"version":      "0.1.1",
 	"main":         "index.js",
 	"files":        ["index.js", "uic.json"],
 	"keywords":     ["vbb", "stations", "places"],
 	"author":       "Jannis R <mail@jannisr.de>",
-	"homepage":     "https://github.com/derhuerst/german-states-bbox",
-	"repository":   "derhuerst/german-states-bbox",
-	"issues":       "https://github.com/derhuerst/german-states-bbox/issues",
+	"homepage":     "https://github.com/derhuerst/uic-codes",
+	"repository":   "derhuerst/uic-codes",
+	"issues":       "https://github.com/derhuerst/uic-codes/issues",
 	"license":      "ISC",
 	"engines":      {"node": ">=4"},
 	"scripts": {
