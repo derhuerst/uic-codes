@@ -10,7 +10,7 @@
 	"repository":   "derhuerst/uic-codes",
 	"issues":       "https://github.com/derhuerst/uic-codes/issues",
 	"license":      "ISC",
-	"engines":      {"node": ">=4"},
+	"engines":      {"node": ">=6"},
 	"scripts": {
 		"test":       "node test.js",
 		"prepublish": "npm test"

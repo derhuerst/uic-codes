@@ -1,12 +1,14 @@
 'use strict'
 
-const uic = require('./uic')
+const raw = require('./raw.json')
 
-const data = []
-for (let country in uic) {
-	const code = uic[country]
-	data[country] = code
-	data[code] = country
+const data = {toISO: [], toUIC: {}}
+
+for (let iso in raw) {
+	const [alphabetical, numerical] = raw[iso]
+	data.toUIC[iso] = numerical
+	data.toISO[numerical] = iso
+	data.toISO[alphabetical] = iso
 }
 
 module.exports = data

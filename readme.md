@@ -19,11 +19,12 @@ npm install uic-codes
 ## Usage
 
 ```js
-const uic = require('uic-codes')
+const {toISO, toUIC} = require('uic-codes')
 
 // Germany
-uic.D // 80
-uic[80] // 'D'
+toUIC.DEU // 80
+toISO[80] // 'DEU'
+toISO.D // 'DEU'
 ```
 
 
