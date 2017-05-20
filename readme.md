@@ -4,9 +4,9 @@
 
 [![npm version](https://img.shields.io/npm/v/uic-codes.svg)](https://www.npmjs.com/package/uic-codes)
 [![build status](https://img.shields.io/travis/derhuerst/uic-codes.svg)](https://travis-ci.org/derhuerst/uic-codes)
-[![dependency status](https://img.shields.io/david/derhuerst/uic-codes.svg)](https://david-dm.org/derhuerst/uic-codes)
 [![dev dependency status](https://img.shields.io/david/dev/derhuerst/uic-codes.svg)](https://david-dm.org/derhuerst/uic-codes#info=devDependencies)
 ![ISC-licensed](https://img.shields.io/github/license/derhuerst/uic-codes.svg)
+[![chat on gitter](https://badges.gitter.im/derhuerst.svg)](https://gitter.im/derhuerst)
 
 
 ## Installing
