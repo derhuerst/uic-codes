@@ -1,6 +1,6 @@
 # uic-codes
 
-**[UIC country codes](https://en.wikipedia.org/wiki/List_of_UIC_country_codes).**
+**Map [UIC country codes](https://en.wikipedia.org/wiki/List_of_UIC_country_codes) to [ISO 3166 codes](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3#Current_codes) and vica versa.**
 
 [![npm version](https://img.shields.io/npm/v/uic-codes.svg)](https://www.npmjs.com/package/uic-codes)
 [![build status](https://img.shields.io/travis/derhuerst/uic-codes.svg)](https://travis-ci.org/derhuerst/uic-codes)
