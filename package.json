@@ -1,7 +1,7 @@
 {
 	"name":         "uic-codes",
 	"description":  "Map UIC country codes to ISO 3166 codes and vica versa.",
-	"version":      "0.2.0",
+	"version":      "0.3.0",
 	"main":         "index.js",
 	"files":        ["index.js", "raw.json"],
 	"keywords":     ["uic", "countries", "iso 3166"],
